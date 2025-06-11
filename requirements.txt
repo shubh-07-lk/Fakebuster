@@ -1,0 +1,6 @@
+streamlit
+sentence-transformers
+scikit-learn
+deep-translator
+langdetect
+requests
