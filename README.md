@@ -33,7 +33,7 @@ FakeBuster-AI/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/FakeBuster-AI.git
+git clone https://github.com/shubh-07-lk/FakeBuster-AI.git
 cd FakeBuster-AI
 ```
 
