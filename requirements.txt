@@ -4,3 +4,5 @@ scikit-learn
 deep-translator
 langdetect
 requests
+FASTAPI
+NEXT.js
