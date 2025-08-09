@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sentence-transformers
+scikit-learn
+deep-translator
+langdetect
+requests
+python-dotenv
+pydantic
