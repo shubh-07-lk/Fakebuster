@@ -20,8 +20,8 @@ FakeBuster AI is a multilingual fake news detection tool that uses semantic sear
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/FakeBuster-AI.git
-cd FakeBuster-AI
+git clone https://github.com/shubh-07-lk/Fakebuster.git
+cd Fakebuster
 ```
 
 ### Backend Setup
